@@ -17,6 +17,6 @@
     "test": "polymer test"
   },
   "devDependencies": {
-    "polymer-cli": "^0.18"
+    "polymer-cli": "^1.7.2"
   }
 }
